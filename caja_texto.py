@@ -19,4 +19,6 @@ caja_texto.pack(padx=20)
 button = ttk.Button(ventana, text="Enviar", command=mostrar)
 button.pack(pady=20)
 
+
+
 ventana.mainloop()

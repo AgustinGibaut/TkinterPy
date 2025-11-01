@@ -1,4 +1,4 @@
-#TKINDER (IMPORTADO)
+#TKINTER (IMPORTADO)
 import tkinter as tk
 #MODULO TTK (es una mejora de la libreria de tkinder.)
 from tkinter import ttk
